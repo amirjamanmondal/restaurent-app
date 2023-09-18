@@ -1,5 +1,6 @@
 {
   "name": "restaurent-app",
+  "homepage": "https://amirjamanmondal.github.io/restaurent-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
