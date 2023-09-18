@@ -9,9 +9,7 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <div class="container-fluid">
         <Restaurent />
-      </div>
       <Footer/>
     </div>
   );
