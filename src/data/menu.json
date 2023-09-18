@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "image": "images/Chese_burger.jpg",
+        "name": "Chese Burger",
+        "category": "Breakfast",
+        "price": "₹ 99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+    },
+     {
+        "id": 2,
+        "image": "images/Biriyani.jpg",
+        "name": "Biriyani",
+        "category": "Dinner",
+        "price": "₹ 189",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+     },
+    {
+        "id": 3,
+        "image": "images/Pasta-redchilies.jpg",
+        "name": "Pasta Red Chilies",
+        "category": "Breakfast",
+        "price": "₹ 89",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+    },
+    {
+        "id": 4,
+        "image": "images/Paella.jpg",
+        "name": "Paella",
+        "category": "Lunch",
+        "price": "₹ 239",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+    },
+    {
+        "id": 5,
+        "image": "images/Pizza.jpg",
+        "name": "Pizza",
+        "category": "Breakfast",
+        "price": "₹ 199",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+    },
+    {
+        "id": 6,
+        "image": "images/Poke_bowl.jpg",
+        "name": "Poke Bowl",
+        "category": "Lunch",
+        "price": "₹ 369",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+    },
+    {
+        "id": 7,
+        "image": "images/Taco.jpg",
+        "name": "Tacos",
+        "category": "Breakfast",
+        "price": "₹ 119",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam corporis delectus quia, fugit in itaque!."
+    }
+]
